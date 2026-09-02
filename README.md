@@ -21,7 +21,7 @@ Rather than hiding early-stage work, I'm keeping it visible and organized to sho
 
 ## What's next
 
-The next stage moves from isolated syntax into applied logic — conditionals, loops, and functions — followed by real data work with `pandas` on agricultural datasets (crop yields, weather, and farm input costs).
+The next stage moves from isolated syntax into applied logic conditionals, loops, and functions followed by real data work with `pandas` on agricultural datasets (crop yields, weather, and farm input costs).
 
 Follow the rest of the journey in my other repositories, where these fundamentals get applied to real agricultural data problems.
 
