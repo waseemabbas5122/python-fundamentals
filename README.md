@@ -17,7 +17,7 @@ This repository is a learning log, not a project. It documents the first buildin
 
 ## Why this repo exists
 
-Rather than hiding early-stage work, I'm keeping it visible and organized to show consistent, documented progress over time — from Python basics through to applied agricultural data science projects.
+Rather than hiding early-stage work, I'm keeping it visible and organized to show consistent, documented progress over time from Python basics through to applied agricultural data science projects.
 
 ## What's next
 
