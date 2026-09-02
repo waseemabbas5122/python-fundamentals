@@ -1,8 +1,8 @@
 # Python Fundamentals
 
-Foundational Python exercises marking the start of my transition toward **Agricultural Data Science** — combining an agricultural professional background with Python, data analysis, statistics, and machine learning.
+Foundational Python exercises marking the start of my transition toward **Agricultural Data Science** combining an agricultural professional background with Python, data analysis, statistics, and machine learning.
 
-This repository is a learning log, not a project. It documents the first building blocks — syntax, variables, data types, and operators — that everything else in this journey is built on.
+This repository is a learning log, not a project. It documents the first building blocks syntax, variables, data types, and operators that everything else in this journey is built on.
 
 ## What's here
 
